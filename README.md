@@ -33,7 +33,7 @@ We consider three disturbance scenarios under which substation protection system
 5. Between each two stages of tripping there is a time delay of 2-4 seconds. The trip is initiated via GOOSE communication to respective IEDs such as LIED43, LIED42, LIED32, etc.
 
 
-## Attack Scenario
+## Attack Scenarios
 
 We generated three variants of stNum attacks and a composite attack comprising stNum and Boolean modifications to demonstrate practical GOOSE attacks. These generated attacks were intermixed with normal GOOSE traffic from the Normal.pcapng file, which can be found under the Normal/No_Variable_Loading directory. The duration of each PCAP file is 10mins. The details are as follows.
 
